@@ -1,3 +1,3 @@
 # SOOS-github-actions-sca
 
-test
+test qa
